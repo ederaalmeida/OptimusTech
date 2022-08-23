@@ -1,0 +1,67 @@
+body{
+  margin: auto;
+  width: 1440px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-flex{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo{
+  color: #3A404E;
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+}
+
+span{
+  font-size: 1.3em;
+  margin-left: 5px;
+}
+
+.menu-list{
+  display: flex;
+  list-style: none;
+}
+
+.menu-list .item{
+  color: #667085;
+  font-size: 1.3em;
+  margin-right: 30px;
+}
+
+.menu-list a{
+  text-decoration: none;
+}
+
+.botao{
+  margin-right: 100px;
+}
+
+.entrar{
+  color: #667085;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  margin-right: 20px;
+}
+
+.cadastrar{
+  background-color: #8E2424;
+  border-radius: 8px;
+  border: 1px solid #8E2424;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 1em;
+  padding: 6px 8px;
+}
+
+
+
+
+
+
